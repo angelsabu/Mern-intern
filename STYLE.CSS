@@ -1,0 +1,20 @@
+body{
+    background-color: aquamarine;(227,217,227);
+    background-image:url(https://as2.ftcdn.net/v2/jpg/05/65/36/03/1000_F_565360370_LrWWCTxczrmwqpsPYPljiFyE4gFqpecr.jpg)
+}
+.btn{
+    border-radius:13;
+    padding-left: 10px,20px,22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: blue;
+    cursor:pointer;
+}
+.btn:hover{
+    background-color: azure;
+}
+h3{
+    text-align: center;
+}
+
+
+
